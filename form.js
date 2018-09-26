@@ -74,16 +74,16 @@ $(document).ready(function(){
 		}
 		else if (v1 == '校广播台') {
 			$("#zhiyuanyi2").empty();
-			$('#zhiyuanyi2').append("<option value='新闻组'>新闻组</option>");
-			$('#zhiyuanyi2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
-			$('#zhiyuanyi2').append("<option value='阳光不休假'>阳光不休假节目组</option>");
-			$('#zhiyuanyi2').append("<option value='体育大看台'>体育大看台节目组</option>");
-			$('#zhiyuanyi2').append("<option value='有事大家谈'>有事大家谈节目组</option>");
-			$('#zhiyuanyi2').append("<option value='魅力第六天'>魅力第六天节目组</option>");
-			$('#zhiyuanyi2').append("<option value='ICQ Station'>ICQ Station节目组</option>");
-			$('#zhiyuanyi2').append("<option value='生活Mix'>生活Mix节目组</option>");
+			$('#zhiyuanyi2').append("<option value='非常点播'>《非常点播》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='音乐即时听'>《音乐即时听》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='阳光不休假'>《阳光不休假》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='体育大看台'>《体育大看台》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='有事大家谈'>《有事大家谈》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='魅力第六天'>《魅力第六天》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='ICQ Station'>《ICQ Station》节目组</option>");
+			$('#zhiyuanyi2').append("<option value='生活Mix'>《生活Mix》节目组</option>");
 			$('#zhiyuanyi2').append("<option value='专题组'>专题组</option>");
-			$('#zhiyuanyi2').append("<option value='非常点播'>非常点播节目组</option>");
+			$('#zhiyuanyi2').append("<option value='新闻组'>新闻组</option>");
 			$('#zhiyuanyi2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuanyi2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuanyi2').append("<option value='活动部'>活动部</option>");
@@ -174,16 +174,16 @@ $('#zhiyuaner').change(function(){
 		}
 		else if (v2 == '校广播台') {
 			$("#zhiyuaner2").empty();
-			$('#zhiyuaner2').append("<option value='新闻组'>新闻组</option>");
-			$('#zhiyuaner2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
-			$('#zhiyuaner2').append("<option value='阳光不休假'>阳光不休假节目组</option>");
-			$('#zhiyuaner2').append("<option value='体育大看台'>体育大看台节目组</option>");
-			$('#zhiyuaner2').append("<option value='有事大家谈'>有事大家谈节目组</option>");
-			$('#zhiyuaner2').append("<option value='魅力第六天'>魅力第六天节目组</option>");
-			$('#zhiyuaner2').append("<option value='ICQ Station'>ICQ Station节目组</option>");
-			$('#zhiyuaner2').append("<option value='生活Mix'>生活Mix节目组</option>");
+			$('#zhiyuaner2').append("<option value='非常点播'>《非常点播》节目组</option>");
+			$('#zhiyuaner2').append("<option value='音乐即时听'>《音乐即时听》节目组</option>");
+			$('#zhiyuaner2').append("<option value='阳光不休假'>《阳光不休假》节目组</option>");
+			$('#zhiyuaner2').append("<option value='体育大看台'>《体育大看台》节目组</option>");
+			$('#zhiyuaner2').append("<option value='有事大家谈'>《有事大家谈》节目组</option>");
+			$('#zhiyuaner2').append("<option value='魅力第六天'>《魅力第六天》节目组</option>");
+			$('#zhiyuaner2').append("<option value='ICQ Station'>《ICQ Station》节目组</option>");
+			$('#zhiyuaner2').append("<option value='生活Mix'>《生活Mix》节目组</option>");
 			$('#zhiyuaner2').append("<option value='专题组'>专题组</option>");
-			$('#zhiyuaner2').append("<option value='非常点播'>非常点播节目组</option>");
+			$('#zhiyuaner2').append("<option value='新闻组'>新闻组</option>");
 			$('#zhiyuaner2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuaner2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuaner2').append("<option value='活动部'>活动部</option>");
@@ -273,16 +273,16 @@ $('#zhiyuansan').change(function(){
 		}
 		else if (v3 == '校广播台') {
 			$("#zhiyuansan2").empty();
-			$('#zhiyuansan2').append("<option value='新闻组'>新闻组</option>");			
-			$('#zhiyuansan2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
-			$('#zhiyuansan2').append("<option value='阳光不休假'>阳光不休假节目组</option>");
-			$('#zhiyuansan2').append("<option value='体育大看台'>体育大看台节目组</option>");
-			$('#zhiyuansan2').append("<option value='有事大家谈'>有事大家谈节目组</option>");
-			$('#zhiyuansan2').append("<option value='魅力第六天'>魅力第六天节目组</option>");
-			$('#zhiyuansan2').append("<option value='ICQ Station'>ICQ Station节目组</option>");
-			$('#zhiyuansan2').append("<option value='生活Mix节目组'>生活Mix节目组</option>");
+			$('#zhiyuansan2').append("<option value='非常点播'>《非常点播》节目组</option>");			
+			$('#zhiyuansan2').append("<option value='音乐即时听'>《音乐即时听》节目组</option>");
+			$('#zhiyuansan2').append("<option value='阳光不休假'>《阳光不休假》节目组</option>");
+			$('#zhiyuansan2').append("<option value='体育大看台'>《体育大看台》节目组</option>");
+			$('#zhiyuansan2').append("<option value='有事大家谈'>《有事大家谈》节目组</option>");
+			$('#zhiyuansan2').append("<option value='魅力第六天'>《魅力第六天》节目组</option>");
+			$('#zhiyuansan2').append("<option value='ICQ Station'>《ICQ Station》节目组</option>");
+			$('#zhiyuansan2').append("<option value='生活Mix节目组'>《生活Mix》节目组</option>");
 			$('#zhiyuansan2').append("<option value='专题组'>专题组</option>");
-			$('#zhiyuansan2').append("<option value='非常点播'>非常点播节目组</option>");
+			$('#zhiyuansan2').append("<option value='新闻组'>新闻组</option>");
 			$('#zhiyuansan2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuansan2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuansan2').append("<option value='活动部'>活动部</option>");
