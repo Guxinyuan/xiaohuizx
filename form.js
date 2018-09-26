@@ -52,10 +52,10 @@ $(document).ready(function(){
 			$("#zhiyuanyi2").empty();
 			$('#zhiyuanyi2').append("<option value='爱心部'>爱心部</option>");
 			$('#zhiyuanyi2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuanyi2').append("<option value='同伴部'>同伴部</option>");
+			$('#zhiyuanyi2').append("<option value='同伴教育部'>同伴教育部</option>");
 			$('#zhiyuanyi2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuanyi2').append("<option value='宣传部'>宣传部</option>");
-			$('#zhiyuanyi2').append("<option value='急救部'>急救部</option>");
+			$('#zhiyuanyi2').append("<option value='应急救援部'>应急救援部</option>");
 		}
 		else if (v1 == '校研究生会') {
 			$("#zhiyuanyi2").empty();
@@ -63,16 +63,14 @@ $(document).ready(function(){
 			$('#zhiyuanyi2').append("<option value='学术实践部'>学术实践部</option>");
 			$('#zhiyuanyi2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuanyi2').append("<option value='期刊编辑部'>期刊编辑部</option>");
-			$('#zhiyuanyi2').append("<option value='宣传推广部'>宣传推广部</option>");
+			$('#zhiyuanyi2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuanyi2').append("<option value='文体部'>文体部</option>");
-			$('#zhiyuanyi2').append("<option value='文体部（艺术团）'>文体部（艺术团）</option>");
 		}
 		else if (v1 == '《传媒青年》杂志社') {
 			$("#zhiyuanyi2").empty();
 			$('#zhiyuanyi2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuanyi2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuanyi2').append("<option value='美编部'>美编部</option>");
-			$('#zhiyuanyi2').append("<option value='编辑中心'>编辑中心</option>");
 		}
 		else if (v1 == '校广播台') {
 			$("#zhiyuanyi2").empty();
@@ -94,12 +92,14 @@ $(document).ready(function(){
 			
 			
 		}
-		else if (v1 == '校礼仪队') {
+		else if (v1 == '校礼仪协会') {
 			$("#zhiyuanyi2").empty();
 			$('#zhiyuanyi2').append("<option value='礼仪部'>礼仪部</option>");
 			$('#zhiyuanyi2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuanyi2').append("<option value='公关部'>公关部</option>");
 			$('#zhiyuanyi2').append("<option value='行政部'>行政部</option>");
+			$('#zhiyuanyi2').append("<option value='礼仪分队'>礼仪分队</option>");
+
 		}
 	});
 $('#zhiyuaner').change(function(){
@@ -152,10 +152,10 @@ $('#zhiyuaner').change(function(){
 			$("#zhiyuaner2").empty();
 			$('#zhiyuaner2').append("<option value='爱心部'>爱心部</option>");
 			$('#zhiyuaner2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuaner2').append("<option value='同伴部'>同伴部</option>");
+			$('#zhiyuaner2').append("<option value='同伴教育部'>同伴教育部</option>");
 			$('#zhiyuaner2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuaner2').append("<option value='宣传部'>宣传部</option>");
-			$('#zhiyuaner2').append("<option value='急救部'>急救部</option>");
+			$('#zhiyuaner2').append("<option value='应急救援部'>应急救援部</option>");
 		}
 		else if (v2 == '校研究生会') {
 			$("#zhiyuaner2").empty();
@@ -163,16 +163,14 @@ $('#zhiyuaner').change(function(){
 			$('#zhiyuaner2').append("<option value='学术实践部'>学术实践部</option>");
 			$('#zhiyuaner2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuaner2').append("<option value='期刊编辑部'>期刊编辑部</option>");
-			$('#zhiyuaner2').append("<option value='宣传推广部'>宣传推广部</option>");
+			$('#zhiyuaner2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuaner2').append("<option value='文体部'>文体部</option>");
-			$('#zhiyuaner2').append("<option value='文体部（艺术团）'>文体部（艺术团）</option>");
 		}
 		else if (v2 == '《传媒青年》杂志社') {
 			$("#zhiyuaner2").empty();
 			$('#zhiyuaner2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuaner2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuaner2').append("<option value='美编部'>美编部</option>");
-			$('#zhiyuaner2').append("<option value='编辑中心'>编辑中心</option>");
 		}
 		else if (v2 == '校广播台') {
 			$("#zhiyuaner2").empty();
@@ -194,12 +192,13 @@ $('#zhiyuaner').change(function(){
 			
 			
 		}
-		else if (v2 == '校礼仪队') {
+		else if (v2 == '校礼仪协会') {
 			$("#zhiyuaner2").empty();
 			$('#zhiyuaner2').append("<option value='礼仪部'>礼仪部</option>");
 			$('#zhiyuaner2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuaner2').append("<option value='公关部'>公关部</option>");
 			$('#zhiyuaner2').append("<option value='行政部'>行政部</option>");
+			$('#zhiyuaner2').append("<option value='礼仪分队'>礼仪分队</option>");
 		}
 	});
 $('#zhiyuansan').change(function(){
@@ -252,10 +251,10 @@ $('#zhiyuansan').change(function(){
 			$("#zhiyuansan2").empty();
 			$('#zhiyuansan2').append("<option value='爱心部'>爱心部</option>");
 			$('#zhiyuansan2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuansan2').append("<option value='同伴部'>同伴部</option>");
+			$('#zhiyuansan2').append("<option value='同伴教育部'>同伴部</option>");
 			$('#zhiyuansan2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuansan2').append("<option value='宣传部'>宣传部</option>");
-			$('#zhiyuansan2').append("<option value='急救部'>急救部</option>");
+			$('#zhiyuansan2').append("<option value='应急救援部'>应急救援部</option>");
 		}
 		else if (v3 == '校研究生会') {
 			$("#zhiyuansan2").empty();
@@ -265,14 +264,12 @@ $('#zhiyuansan').change(function(){
 			$('#zhiyuansan2').append("<option value='期刊编辑部'>期刊编辑部</option>");
 			$('#zhiyuansan2').append("<option value='宣传推广部'>宣传推广部</option>");
 			$('#zhiyuansan2').append("<option value='文体部'>文体部</option>");
-			$('#zhiyuansan2').append("<option value='文体部（艺术团）'>文体部（艺术团）</option>");
 		}
 		else if (v3 == '《传媒青年》杂志社') {
 			$("#zhiyuansan2").empty();
 			$('#zhiyuansan2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuansan2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuansan2').append("<option value='美编部'>美编部</option>");
-			$('#zhiyuansan2').append("<option value='编辑中心'>编辑中心</option>");
 		}
 		else if (v3 == '校广播台') {
 			$("#zhiyuansan2").empty();
@@ -294,12 +291,13 @@ $('#zhiyuansan').change(function(){
 			
 			
 		}
-		else if (v3 == '校礼仪队') {
+		else if (v3 == '校礼仪协会') {
 			$("#zhiyuansan2").empty();
 			$('#zhiyuansan2').append("<option value='礼仪部'>礼仪部</option>");
 			$('#zhiyuansan2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuansan2').append("<option value='公关部'>公关部</option>");
 			$('#zhiyuansan2').append("<option value='行政部'>行政部</option>");
+			$('#zhiyuansan2').append("<option value='礼仪分队'>礼仪分队</option>");
 		}
 	});
 })
