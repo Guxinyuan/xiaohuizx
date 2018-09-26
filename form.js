@@ -72,7 +72,7 @@ $(document).ready(function(){
 			$('#zhiyuanyi2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuanyi2').append("<option value='美编部'>美编部</option>");
 		}
-		else if (v1 == '广播台') {
+		else if (v1 == '校广播台') {
 			$("#zhiyuanyi2").empty();
 			$('#zhiyuanyi2').append("<option value='新闻组'>新闻组</option>");
 			$('#zhiyuanyi2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
@@ -172,7 +172,7 @@ $('#zhiyuaner').change(function(){
 			$('#zhiyuaner2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuaner2').append("<option value='美编部'>美编部</option>");
 		}
-		else if (v2 == '广播台') {
+		else if (v2 == '校广播台') {
 			$("#zhiyuaner2").empty();
 			$('#zhiyuaner2').append("<option value='新闻组'>新闻组</option>");
 			$('#zhiyuaner2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
@@ -271,7 +271,7 @@ $('#zhiyuansan').change(function(){
 			$('#zhiyuansan2').append("<option value='宣传部'>宣传部</option>");
 			$('#zhiyuansan2').append("<option value='美编部'>美编部</option>");
 		}
-		else if (v3 == '广播台') {
+		else if (v3 == '校广播台') {
 			$("#zhiyuansan2").empty();
 			$('#zhiyuansan2').append("<option value='新闻组'>新闻组</option>");			
 			$('#zhiyuansan2').append("<option value='音乐即时听'>音乐即时听节目组</option>");
