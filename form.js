@@ -87,8 +87,8 @@ $(document).ready(function(){
 			$('#zhiyuanyi2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuanyi2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuanyi2').append("<option value='活动部'>活动部</option>");
-			$('#zhiyuanyi2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuanyi2').append("<option value='台宣部'>台宣部</option>");
+			$('#zhiyuanyi2').append("<option value='设计部'>设计部</option>");
+			$('#zhiyuanyi2').append("<option value='企划部'>企划部</option>");
 			
 			
 		}
@@ -187,8 +187,8 @@ $('#zhiyuaner').change(function(){
 			$('#zhiyuaner2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuaner2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuaner2').append("<option value='活动部'>活动部</option>");
-			$('#zhiyuaner2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuaner2').append("<option value='台宣部'>台宣部</option>");
+			$('#zhiyuaner2').append("<option value='设计部'>设计部</option>");
+			$('#zhiyuaner2').append("<option value='企划部'>企划部</option>");
 			
 			
 		}
@@ -286,8 +286,8 @@ $('#zhiyuansan').change(function(){
 			$('#zhiyuansan2').append("<option value='行政部'>行政部</option>");
 			$('#zhiyuansan2').append("<option value='外联部'>外联部</option>");
 			$('#zhiyuansan2').append("<option value='活动部'>活动部</option>");
-			$('#zhiyuansan2').append("<option value='新媒体部'>新媒体部</option>");
-			$('#zhiyuansan2').append("<option value='台宣部'>台宣部</option>");
+			$('#zhiyuansan2').append("<option value='设计部'>设计部</option>");
+			$('#zhiyuansan2').append("<option value='企划部'>企划部</option>");
 			
 			
 		}
