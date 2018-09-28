@@ -1,5 +1,5 @@
 $(document).ready(function(){
-Bmob.initialize("aa35a73f1cd9a6935933a5afe62cffa9","c6dd3c5763a21d654fdf1272e500e321");
+Bmob.initialize("48d8c1303f93b879d053082f517106eb","6bdc9942e07c73737f94271ad7036897");
 
 var Student = Bmob.Object.extend("Student");
 var student = new Student();
